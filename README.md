@@ -9,7 +9,7 @@ This repository contains a collection of my projects in data science and machine
 4. **Email Spam Detection**: Identifying spam emails using TensorFlow.
 5. **MNIST Digits Classification**: Recognizing handwritten digits using neural networks.
 6. **Online Retail Clustering**: Clustering customers based on retail data.
-7. **Transformer Model**: Implementation of a transformer-based model.
+7. **Transformer Model**: Implementation chat toxcicity detection NLP model.
 
 ## New Projects
 - **Movie Recommendation System**: A recommendation system for suggesting movies based on user preferences.
